@@ -3,6 +3,7 @@ C++ Programming Workspace
 
 File naming : (content)-(chapter number)-(problem number).cpp
 
+Chapter : Chapter-xx
 예제 : ex-#-#.cpp
 Check Time : ct-#-#.cpp
 Open Challenge : oc-#-#.cpp
