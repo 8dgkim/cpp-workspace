@@ -1,3 +1,4 @@
-﻿  ex-2-1.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_006\Chapter-02\Debug\Chapter-02.exe : fatal error LNK1120: 1 unresolved externals
+﻿  ex-2-6.cpp
+  ex-2-7.cpp
+  Generating Code...
+  Chapter-02.vcxproj -> C:\Users\Owner\OneDrive - swarthmore.edu\김동규\Computer\Project\Project_006\Chapter-02\Debug\Chapter-02.exe
