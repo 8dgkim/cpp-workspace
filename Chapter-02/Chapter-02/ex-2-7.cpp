@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main()
+int main_ex_2_7()
 {
 	string song("Rap God");
 	string eminem("Eminem");

@@ -30,5 +30,8 @@
     <ClCompile Include="ex-2-7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="oc-2-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
